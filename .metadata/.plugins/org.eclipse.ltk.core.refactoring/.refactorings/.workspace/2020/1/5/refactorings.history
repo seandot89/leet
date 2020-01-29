@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;shortestCommonString&apos; to &apos;LongestCommonPrefix&apos;&#x0D;&#x0A;- Original element: &apos;shortestCommonString&apos;&#x0D;&#x0A;- Renamed element: &apos;shortestCommonString&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;shortestCommonString&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=shortestCommonString" name="LongestCommonPrefix" references="true" stamp="1580332105062" version="1.0"/>
+</session>
