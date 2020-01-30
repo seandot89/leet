@@ -9,7 +9,7 @@ public class lcp {
 		String lcp2 = longestCommonPrefix(lcp1); 
 		
 		System.out.println(lcp2);
-		
+		 
 
 	}
 	
