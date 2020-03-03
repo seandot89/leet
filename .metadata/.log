@@ -4790,3 +4790,7 @@ Caused by: java.io.FileNotFoundException: C:\Users\3795597\AppData\Local\Program
 	at org.eclipse.swt.graphics.ImageLoader.load(ImageLoader.java:181)
 	... 75 more
 >>>>>>> 85060a160aed82b7d3d5f752fca86547fc348d42
+
+!ENTRY org.eclipse.core.net 4 0 2020-03-03 11:19:51.991
+!MESSAGE WinHttp.GetProxyForUrl for pac failed with error 'The proxy auto-configuration script could not be downloaded
+' #12167.
