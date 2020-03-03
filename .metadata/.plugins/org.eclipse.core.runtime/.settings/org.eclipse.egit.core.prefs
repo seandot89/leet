@@ -1,4 +1,5 @@
-GitRepositoriesView.GitDirectories=C\:\\Dev\\leet\\.git;
-GitRepositoriesView.GitDirectories.relative=.git;
+GitRepositoriesView.GitDirectories=/Users/seandot/Documents/Dev/LeetGit/.git\:/Users/seandot/Documents/Dev/LeetGit/leet/.git\:
+GitRepositoriesView.GitDirectories.relative=/Users/seandot/Documents/Dev/LeetGit/.git\:.git\:
+RepositorySearchDialogSearchPath=/Users/seandot/Documents/Dev/LeetGit/leet
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
